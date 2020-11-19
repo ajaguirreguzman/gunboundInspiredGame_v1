@@ -8,3 +8,4 @@ Gunbound-inspired game written in April 2011. Players use cannons to attack each
 
 - Innumerable aspects of the interface can be improved (e.g., canvases remain on top of each other).
 - An improved version is provided in Java.
+- Commentary in Spanish (sorry!), must be translated.
