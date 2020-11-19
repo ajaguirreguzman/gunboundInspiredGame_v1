@@ -2,9 +2,9 @@
 
 ## Shor description
 
-Gunbound-inspired game written in April 2011. Players use cannons to attack each other. Speed and angle of the projectiles at introduced anonimously.
+Gunbound-inspired game written in April 2011. Players use cannons to attack each other. Speed and angle of the projectiles are introduced anonimously. A (very strong) three is set in the middle of the battle field to avoid direct shots.
 
 ## Comments:
 
-- Innumerable aspects of the interface can be improved.
-- An improved version is provided in java.
+- Innumerable aspects of the interface can be improved (e.g., canvases remain on top of each other).
+- An improved version is provided in Java.
