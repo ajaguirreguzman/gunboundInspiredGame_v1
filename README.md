@@ -8,7 +8,7 @@ Gunbound-inspired game written in April 2011. Players use cannons to attack each
 
 - Innumerable aspects of the interface (Tkinter) can be improved (e.g., canvases remain on top of each other).
 - Commentary in Spanish (sorry!), must be translated.
-- An improved version is provided in Java.
+- An improved version is provided in Java (see https://github.com/ajaguirreguzman/gunbound_inspired_game_v2)
 
 ## Run
 
